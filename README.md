@@ -12,10 +12,18 @@ Passionate web developer with a strong inclination towards creating innovative a
 - **Junior Web Developer Intern**
   MEPZ II, Basak Lapu-Lapu City, Cebu
   August 2022 – November 2022
+  - Updated and maintained existing applications for company’s use.
+  - Collaborated with the development team.
+  - Conducted testing on the development process of ongoing projects.
+  - **Tech Stacks:** HTML, CSS, JS, C#, ASP.net MVC, SQL, git
 
 - **Junior Web Developer**
   JY Square Mall, Lahug Cebu City, Cebu
   July 2023 – Present
+  - Responsible for developing full stack applications.
+  - Delivered website and web applications required by the marketing team.
+  - Maintained and enhanced existing project/websites.
+  - **Tech Stacks:** Vue, Node, SQL, git
 
 ## School Projects
 - **INSTALLATOR | C#, Unity 3D, git, firebase**
@@ -33,4 +41,3 @@ Passionate web developer with a strong inclination towards creating innovative a
 - **Phone:** +639279411023
 - **Email:** markjosmild@gmail.com
 - **LinkedIn:** [Mark Josmil Degamo](linkedin.com/in/mark-josmil-degamo-97a05a273)
-
