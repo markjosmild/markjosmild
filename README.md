@@ -19,7 +19,7 @@ Passionate web developer with a strong inclination towards creating innovative a
 
 - **Junior Web Developer**
   JY Square Mall, Lahug Cebu City, Cebu
-  July 2023 – Present
+  July 2023 – November 2023
   - Responsible for developing full stack applications.
   - Delivered website and web applications required by the marketing team.
   - Maintained and enhanced existing project/websites.
