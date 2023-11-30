@@ -1,43 +1,34 @@
-# Mark Josmil Degamo
-
-## About Me
-Passionate web developer with a strong inclination towards creating innovative and efficient web applications. Currently honing my skills and expertise in JavaScript-based development. Seeking opportunities for future career growth and development.
-
-## Education
-- **Bachelor of Science in Computer Science**
-  University of Cebu Mandaue City, Cebu
-  July 2019 – July 2023
-
-## Experience
-- **Junior Web Developer Intern**
-  MEPZ II, Basak Lapu-Lapu City, Cebu
-  August 2022 – November 2022
-  - Updated and maintained existing applications for company’s use.
-  - Collaborated with the development team.
-  - Conducted testing on the development process of ongoing projects.
-  - **Tech Stacks:** HTML, CSS, JS, C#, ASP.net MVC, SQL, git
-
-- **Junior Web Developer**
-  JY Square Mall, Lahug Cebu City, Cebu
-  July 2023 – November 2023
-  - Responsible for developing full stack applications.
-  - Delivered website and web applications required by the marketing team.
-  - Maintained and enhanced existing project/websites.
-  - **Tech Stacks:** Vue, Node, SQL, git
-
-## School Projects
-- **INSTALLATOR | C#, Unity 3D, git, firebase**
-  January 2023 – April 2023
-  - Developed a simulation-based assessment from the traditional assessment of TESDA’S computer system servicing assessment module.
-  - Implemented game design, algorithm, and logic.
-  - Visualized the game using Unity 3D.
-
-## Technical Skills
-- **Languages:** HTML/CSS, JavaScript, C#, SQL
-- **Frameworks/Environment:** Vue, Node, Express, ASP.net
-- **Developer Tools:** VS Code, Postman, MySQL, git
-
-## Contact
-- **Phone:** +639279411023
-- **Email:** markjosmild@gmail.com
-- **LinkedIn:** [Mark Josmil Degamo](linkedin.com/in/mark-josmil-degamo-97a05a273)
+Mark Josmil Degamo
++639279411023 | markjosmild@gmail.com | github.com/markjosmild | linkedin
+Education
+University of Cebu Mandaue City, Cebu
+Bachelor of Science in Computer Science July 2019 – July 2023
+Experience
+Junior Web Developer July 2023 – November 2023
+Cubic Solutions Inc. JY Square Mall, Lahug, Cebu City, Cebu
+• Trained, and succesfully developed full stack web applications.
+• Utilized team’s standard template to develop custom CMS tools.
+• Developed a Node.js script for seamless automation on web scraping.
+• Skills: Vue.js, Node.js, Express.js, SQL, git
+Junior Web Developer Intern August 2022 – November 2022
+LEAR Corporation MEPZ II, Basak, Lapu-Lapu City, Cebu
+• Intensive training on web technologies.
+• Developed, and optimized functions for existing projects.
+• Introduced theme designs for existing projects.
+• Skills: HTML, CSS, JavaScript, ASP.net MVC, Bootstrap, SQL, git
+Project
+INSTALLATOR April 2023
+• Thesis project for simulation/game based assessment.
+• Developed the front-end game design.
+• Collaborated development with team developer.
+• Skills: C#, Unity 3D, Firebase, git
+NEWS AGGREGATOR November 2023
+• Personal project used to share news within users.
+• Developed the front-end design using Vue.js.
+• Developed the back-end api using Node.js with Express.js.
+• Skills: Vue.js, Node.js, Express.js, tailwindcss, git
+• Source codes: API, UI
+Technical Skills
+Programming, Markup Languages: HTML, CSS, JavaScript, C#, SQL
+Frameworks/Environment: Vue.js, Node.js, Express.js, ASP.net MVC, tailwindcss, Bootstrap
+Developer Tools: VS Code, Postman, MySQL, gi
